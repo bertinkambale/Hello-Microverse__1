@@ -1,34 +1,23 @@
+Hello Microverse
+In this project, I set up a "Hello Microverse" repository. The goal here is to master all of the tools and best practices by setting up linrters.
 
-Project Name
-# Hello-Microverse__1
-Description the project.
-# this project will display hello microverse
 Built With
-# Html & Css
-
-Frameworks
-Technologies used
-Live Demo (if available)
-Live Demo Link
-
-Getting Started
-This is an example of how you may give instructions on setting up your project locally. Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.
-
+HTML
+CSS
+Get Started
 To get a local copy up and running follow these simple example steps.
 
-Prerequisites
-Setup
-Install
-Usage
-Run tests
-Deployment
+Download the Zip file or Clone the Repo
+git clone https://github.com/bertinkambale/Hello-Microverse__1
+To access the directory
+
+Open it with the live server in your browser
 Authors
-👤 Author1: @bertinkambale
-
-GitHub: @bertinkambale
-Twitter: @bertinkambale
-LinkedIn: @bertinkambale
-
+👤 Your name here
+ @bertinkambale
+GitHub: @github_username
+Twitter: @twitter_username
+LinkedIn: Linkedin_username
 🤝 Contributing
 Contributions, issues, and feature requests are welcome!
 
@@ -38,9 +27,6 @@ Show your support
 Give a ⭐️ if you like this project!
 
 Acknowledgments
-Hat tip to anyone whose code was used
-Inspiration
-etc
+Thank you Microverse
 📝 License
 This project is MIT licensed.
-
