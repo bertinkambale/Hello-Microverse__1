@@ -6,7 +6,6 @@ Description the project.
 Built With
 # Html & Css
 
-
 Frameworks
 Technologies used
 Live Demo (if available)
