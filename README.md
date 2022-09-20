@@ -19,7 +19,7 @@ To get a local copy up and running follow these simple example steps.
 
 2. To access the directory
   ```bash
-   cd/hello_microverse
+   cd hello_microverse
   ```
 3. Open it with the live server in your browser
 
